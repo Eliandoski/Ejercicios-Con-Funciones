@@ -13,6 +13,7 @@ double suma (double num, double num2) //Función suma
     return num + num2;
 }
 
+//DOCUMENTE CADA FUNCION
 double resta (double num, double num2) //Función resta
 {
     return num - num2;
