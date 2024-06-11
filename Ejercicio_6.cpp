@@ -11,6 +11,7 @@ Por ejemplo 5660, tiene 4 cifras*/
 
 using namespace std;
 
+//LA VARIABLE cont NO SE DEBE PASAR COMO PARÁMETRO
 int contarCifras(int cont, int num)
 {
     int numero = num;
